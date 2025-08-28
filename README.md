@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/santhosh2016/Leetcode_problems/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/santhosh2016/Leetcode_problems/tree/master/0338-counting-bits) |
 ## Dynamic Programming
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/santhosh2016/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/santhosh2016/Leetcode_problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
