@@ -33,8 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/santhosh2016/Leetcode_problems/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/santhosh2016/Leetcode_problems/tree/master/0338-counting-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/santhosh2016/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
