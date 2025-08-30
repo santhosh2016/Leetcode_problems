@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/santhosh2016/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0260-single-number-iii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0260-single-number-iii) |
+| [0682-baseball-game](https://github.com/santhosh2016/Leetcode_problems/tree/master/0682-baseball-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/santhosh2016/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/santhosh2016/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/santhosh2016/Leetcode_problems/tree/master/0190-reverse-bits) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/santhosh2016/Leetcode_problems/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/santhosh2016/Leetcode_problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
