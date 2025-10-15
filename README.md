@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh2016/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/santhosh2016/Leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0822-unique-morse-code-words](https://github.com/santhosh2016/Leetcode_problems/tree/master/0822-unique-morse-code-words) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh2016/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/santhosh2016/Leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0822-unique-morse-code-words](https://github.com/santhosh2016/Leetcode_problems/tree/master/0822-unique-morse-code-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/santhosh2016/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0260-single-number-iii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0682-baseball-game](https://github.com/santhosh2016/Leetcode_problems/tree/master/0682-baseball-game) |
+| [0822-unique-morse-code-words](https://github.com/santhosh2016/Leetcode_problems/tree/master/0822-unique-morse-code-words) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/santhosh2016/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
