@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/santhosh2016/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/santhosh2016/Leetcode_problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0260-single-number-iii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0682-baseball-game](https://github.com/santhosh2016/Leetcode_problems/tree/master/0682-baseball-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/santhosh2016/Leetcode_problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/santhosh2016/Leetcode_problems/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/santhosh2016/Leetcode_problems/tree/master/0338-counting-bits) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/santhosh2016/Leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
