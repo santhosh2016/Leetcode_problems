@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/santhosh2016/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/santhosh2016/Leetcode_problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/santhosh2016/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0260-single-number-iii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0682-baseball-game](https://github.com/santhosh2016/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/santhosh2016/Leetcode_problems/tree/master/0822-unique-morse-code-words) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/santhosh2016/Leetcode_problems/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/santhosh2016/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
