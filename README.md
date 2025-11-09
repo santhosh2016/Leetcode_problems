@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/santhosh2016/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0260-single-number-iii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0260-single-number-iii) |
 | [0682-baseball-game](https://github.com/santhosh2016/Leetcode_problems/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/santhosh2016/Leetcode_problems/tree/master/0822-unique-morse-code-words) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/santhosh2016/Leetcode_problems/tree/master/0682-baseball-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santhosh2016/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
